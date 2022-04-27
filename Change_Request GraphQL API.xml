@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2022-04-27 14:20:20">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Change_GraphQL API</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>1a5c2b891b8301106c7399f7b04bcb56</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:19</sys_created_on>
+<sys_id>7051a4361b0301106c7399f7b04bcb3e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:19</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_438300d11b0701106c7399f7b04bcb9b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="INSERT_OR_UPDATE"><path>Change:assignment_group</path><resolver display_value="getRecordBySourceID">cedb2b851b8301106c7399f7b04bcb98</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 20:19:31</sys_created_on><sys_id>438300d11b0701106c7399f7b04bcb9b</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_438300d11b0701106c7399f7b04bcb9b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 20:19:31</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>-1936197929</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>305168361b0301106c7399f7b04bcb1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18052ee00670000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>699340959c070110df8c16c704600876</update_guid>
+<update_guid_history>699340959c070110df8c16c704600876:-1936197929</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_23bad4d11b8701106c7399f7b04bcbf4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="INSERT_OR_UPDATE"><path>Group:manager</path><resolver display_value="getRecordBySourceID">cedb2b851b8301106c7399f7b04bcb98</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 22:00:50</sys_created_on><sys_id>23bad4d11b8701106c7399f7b04bcbf4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_23bad4d11b8701106c7399f7b04bcbf4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 22:00:50</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>746987890</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>3451a4361b0301106c7399f7b04bcb40</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180534ac3a10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>f1cad09173870110ae1f0aeea73f8227</update_guid>
+<update_guid_history>f1cad09173870110ae1f0aeea73f8227:746987890</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_schema_8c19a7851b8301106c7399f7b04bcbfa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_schema"><sys_graphql_schema action="INSERT_OR_UPDATE"><active>true</active><application_namespace>x723649</application_namespace><enforce_acl/><name>Change</name><namespace>change</namespace><paths>Change:assignment_group,Change:category,Change:change_tasks,Change:id,Change:impact,Change:number,Change:priority,Change:problems,Change:requested_by,Change:risk,Change:service,Change:short_description,ChangeTasks:cmdb_ci,ChangeTasks:id,ChangeTasks:number,ConfigurationItem:id,ConfigurationItem:name,ConfigurationItem:number,ConfigurationItem:type,Group:description,Group:id,Group:manager,Group:name,Problems:description,Problems:id,Problems:impact,Problems:number,Query:getChangeRequestByID,Service:business_criticality,Service:id,Service:name,User:first_name,User:id,User:title,User:user_name</paths><requires_acl_authorization>false</requires_acl_authorization><requires_authentication>false</requires_authentication><requires_snc_internal_role>true</requires_snc_internal_role><schema>schema {&#13;
+    query: Query&#13;
+}&#13;
+&#13;
+type Query {&#13;
+   getChangeRequestByID(table: String! = "change_request", id: ID!): Change&#13;
+}&#13;
+&#13;
+type Change{&#13;
+	id: ID! @source(value: "sys_id.value")&#13;
+	number: String @source(value: "number.display_value")&#13;
+	requested_by(table: String = "sys_user"): User @source(value: "requested_by.value")&#13;
+	category: String @source(value: "category.display_value")&#13;
+	service(table: String = "cmdb_ci_service"): Service @source(value: "business_service.value")&#13;
+	priority: String @source(value: "priority.display_value")&#13;
+	risk: String @source(value: "risk.display_value")&#13;
+	impact: String @source(value: "impact.display_value")&#13;
+	short_description: String @source(value: "short_description.display_value")&#13;
+	assignment_group(table: String = "sys_user_group"): Group @source(value: "assignment_group.value")&#13;
+	change_tasks(table: String = "change_task", fieldname: String = "change_request" ): [ChangeTasks] @source(value: "sys_id.value")&#13;
+	problems(table: String = "problem", fieldname: String = "change_request"): [Problems] @source(value: "change_request.value")&#13;
+}&#13;
+&#13;
+type User{&#13;
+	id: ID! @source(value: "sys_id.value")&#13;
+	user_name: String @source(value: "user_name.display_value")&#13;
+	first_name: String @source(value: "first_name.display_value")&#13;
+	title: String @source(value: "title.display_value")&#13;
+}&#13;
+&#13;
+type Service{&#13;
+	id: ID! @source(value: "sys_id.value")&#13;
+	name: String @source(value: "name.display_value")&#13;
+	business_criticality: String @source(value: "busines_criticality.display_value")&#13;
+}&#13;
+&#13;
+type Group{&#13;
+	id: ID! @source(value: "sys_id.value")&#13;
+	name: String @source(value: "name.display_value")&#13;
+	description: String @source(value: "description.display_value")&#13;
+	manager(table: String = "sys_user"): User @source(value: "manager.value")&#13;
+}&#13;
+&#13;
+type ChangeTasks{&#13;
+	id: ID! @source(value: "sys_id.value")&#13;
+	number: String @source(value: "number.display_value")&#13;
+	cmdb_ci(table: String = "cmdb_ci"): ConfigurationItem @source(value: "cmdb_ci.value")&#13;
+	&#13;
+}&#13;
+type ConfigurationItem{&#13;
+	id: ID! @source(value: "sys_id.value")&#13;
+	number: String @source(value: "number.display_value")&#13;
+	name: String @source(value: "name.display_value")&#13;
+	type: String @source(value: "type.display_value")&#13;
+}&#13;
+&#13;
+&#13;
+&#13;
+type  Problems{&#13;
+	 id: ID! @source(value: "sys_id.value")&#13;
+	 # change_request(table: String = "change_request"): Change @source(value: "sys_id.value")&#13;
+	 number: String @source(value: "number.display_value")&#13;
+	 impact: String @source(value: "impact.display_value")&#13;
+	 description: String @source(value: "description.display_value")&#13;
+}&#13;
+&#13;
+</schema><sys_class_name>sys_graphql_schema</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 18:24:11</sys_created_on><sys_id>8c19a7851b8301106c7399f7b04bcbfa</sys_id><sys_mod_count>54</sys_mod_count><sys_name>Change</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_schema_8c19a7851b8301106c7399f7b04bcbfa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-25 15:49:02</sys_updated_on><type_names/></sys_graphql_schema></record_update>]]></payload>
+<payload_hash>-613217659</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>385168361b0301106c7399f7b04bcb20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180616973210000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name>Change</target_name>
+<type>GraphQL API</type>
+<update_domain>global</update_domain>
+<update_guid>b8722646548b0510378cff1e49d52a68</update_guid>
+<update_guid_history>b8722646548b0510378cff1e49d52a68:-613217659,2a42ee067a8b051077e26f2707ac0f07:1777840152,244ad6cab54b05105244cbfa4c50bf33:501426040,cd449e82544b0510493ef428eef6a698:-1173601992,fe91da02a14b0510be4015b4abe3bef4:1233813362,81815a02b44b05106a5d6bb4bf2398ee:1998132629,b6619602a64b0510dd04a2e553281d21:1233813362,3051d602264b05103209804eee0960c2:-39146965,57315602564b05106f8798c30fc36fc7:41313212,d86b649510c7011045176623d97efa04:-1333279378,cfc8a855bcc701106b23817c97056ef3:973420450,53986855e8c7011041028af0f47ca060:-614726342,c1c1e8d9908701104ca912ae6eb80b1f:-1550335868,f34f58590c87011092b6845c824f49cf:1438604454,e6cedc55ff870110a65fdab9efc01640:-1770839914,62ddd8d5cb870110b38bf7325c65ab1b:-1550335868,c7ab5815318701102420735008bec165:-1992503942,7b8bd4152087011021ab77160b45c56b:-483634969,6c3b54d1dd870110cb33fa21fdcb4fbe:-1992503942,c0c9909138870110beea80c72985787a:892223094,b6a91091e3870110730bac166895abef:422521001,5d895c518387011069be39de581774ea:892223094,d439d451ca870110e1674fd1d84abe28:410549179,d2451cd90c4701107c83fa7d702b5fd0:1974827986,e605501d704701106310ccfd913e4ee7:-302678763,26935c593747011056ae0713121b9893:1756855448,e241d855aa4701107adbee2165851cf6:407566154,b7e0d05128470110412a4c7f0daf4292:-302678763,c59f0c91c2470110010b3c87356a6694:1756855448,07b4481955070110e6fc929151450d6a:-278802194,b98404d522070110d4529dc0f722701a:1252374728,c4548019c40701109f4e86bcd960ea1d:1754694327,3b7380d5ab07011092679aa39c5e8894:-874744807,61b2009579070110b0bfa9f5573c2cc0:-1675854511,0ce14055590701107c4b3d9e00b8fc3e:-1238551308,3fff7f8d57c30110a6a41d645bc44efa:-2030612210,036c378d70c30110537c35599b34fd06:530585080,02ebbf0dbfc30110ae1a35d8c130fbbc:389342065,8bbbf74dbec30110f197acc4798de5ef:-1018221103,056b734d2cc301101fa54c0ec2306754:464727484,9b5bbf0d51c301108fd873c7d47e4095:11046914,7a2b3b0d23c301108ac112cd94602f3a:-579813975,cefa3b0dd9c3011027dd2540bf50fe24:168088633,87da7f05c6c3011031325f166d98d11a:-579813975,7a8affc9f0c30110d44259ed0898334b:1079905028,e2a93f89dcc301104875d10aefaf1bd9:-1426429298,7d497789a7c3011022c6767489ed84a7:-1025994606,2e24370547c30110dc6fc549e5f8466f:2025179293,6e73f7c183c3011035efb3cb57b0ce80:219857140,8c123f41ebc301100a5a81dc3a11e85b:1747780292,2d11bfcdd78301107c9e1996a432cfe3:-814971455,e5c07301fec3011034d8e5012cb7ad71:-581676578,27807fcd1c830110c53a2be4ad9e7b5c:-589934924,ffaa678543830110ce5ef66ef0d5e84e:1227965995,84396785d18301100b95c7fa48b0a137:1022615955</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_ba761cd91b4701106c7399f7b04bcbd5</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_graphql_resolver"&gt;&lt;sys_graphql_resolver action="DELETE"&gt;&lt;name&gt;getContactsFromM2M&lt;/name&gt;&lt;schema display_value="Change"&gt;8c19a7851b8301106c7399f7b04bcbfa&lt;/schema&gt;&lt;script&gt;&lt;![CDATA[(function process( /*ResolverEnvironment*/ env) {
+
+    var id = env.getSource();
+    var table = env.getArguments().table;
+	var fieldname = env.getArguments().fieldname;
+	var contactIDs = [];
+
+    var rec = new GlideRecord(table);
+    rec.addQuery(fieldname, id);
+    if (env.getArguments().filter != null) {
+        rec.addEncodedQuery('' + env.getArguments().filter);
+    }
+    rec.query();
+    while (rec.next()) {
+		contactIDs.push(''+rec.pid_contact);
+//         var contact = rec.pid_contact.getRefRecord();
+//         //gs.info("This is the contact" + JSON.stringify(contact));
+//         var obj = {
+//             'sys_id': contact.getUniqueValue(),
+// 			'first_name': contact.getDisplayValue('first_name'),
+// 			'last_name': contact.getDisplayValue('last_name'),
+// 			'active': contact.getDisplayValue('active'),
+// 			'active_ch': contact.getDisplayValue('active_ch'),
+// 			'cell': contact.getDisplayValue('cell'),
+// 			'phone': contact.getDisplayValue('phone'),
+//             'sys_created_by': contact.getDisplayValue('sys_created_by'),
+//             'sys_created_on': contact.getDisplayValue('sys_created_on'),
+//             'sys_updated_by': contact.getDisplayValue('sys_updated_by'),
+//             'sys_updated_on': contact.getDisplayValue('sys_updated_on'),
+//         };
+//         //gs.info(JSON.stringify(obj));
+//         results.push(obj);
+    }
+	
+	var contacts = new GlideRecord('chage_task');
+	if (contactIDs.length &gt; 0) {
+		contacts.addEncodedQuery('sys_idIN'+contactIDs.join(','));
+	} else {
+		contacts.addEncodedQuery('sys_idINnone');
+	}
+	contacts.query();
+
+    return contacts;
+
+})(env);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_graphql_resolver&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-04-22 21:42:56&lt;/sys_created_on&gt;&lt;sys_id&gt;ba761cd91b4701106c7399f7b04bcbd5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;getContactsFromM2M&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_graphql_resolver_ba761cd91b4701106c7399f7b04bcbd5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-04-22 21:42:56&lt;/sys_updated_on&gt;&lt;/sys_graphql_resolver&gt;&lt;/record_update&gt;</payload>
+<payload_hash>770973039</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>3851a4361b0301106c7399f7b04bcb3f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180534d1cde0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name>getContactsFromM2M</target_name>
+<type>GraphQL Scripted Resolver</type>
+<update_domain>global</update_domain>
+<update_guid>135b1015d687011080bc9cfd83b148a3</update_guid>
+<update_guid_history>135b1015d687011080bc9cfd83b148a3:770973039,63a65c592d470110c0b47f4ce7dc9d1b:-1511122693</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_83abeb491b8301106c7399f7b04bcbb2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="DELETE"><path>Change:id</path><resolver display_value="getRecordByID">91baab091b8301106c7399f7b04bcb4d</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 18:35:14</sys_created_on><sys_id>83abeb491b8301106c7399f7b04bcbb2</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_83abeb491b8301106c7399f7b04bcbb2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 18:35:14</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>1255661135</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>3c5168361b0301106c7399f7b04bcb1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180529af6e20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>8ddea74d28830110a2d0117183fff806</update_guid>
+<update_guid_history>8ddea74d28830110a2d0117183fff806:1255661135,c2bb2345858301100fa55e458bce7137:1595544283</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_04cea74d1b8301106c7399f7b04bcbc3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="INSERT_OR_UPDATE"><path>Query:getChangeRequestByID</path><resolver display_value="getRecordByID">91baab091b8301106c7399f7b04bcb4d</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 18:48:36</sys_created_on><sys_id>04cea74d1b8301106c7399f7b04bcbc3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_04cea74d1b8301106c7399f7b04bcbc3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 18:48:36</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>-1576382253</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>7051a4361b0301106c7399f7b04bcb40</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180529ac5920000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>b9ceab4dd58301103c711380f511e72b</update_guid>
+<update_guid_history>b9ceab4dd58301103c711380f511e72b:-1576382253</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_c5edd8d51b8701106c7399f7b04bcb33</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="DELETE"><path>Change:affected_cis</path><resolver display_value="getRecordByField">57b5d8991b4701106c7399f7b04bcb87</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 22:14:39</sys_created_on><sys_id>c5edd8d51b8701106c7399f7b04bcb33</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_c5edd8d51b8701106c7399f7b04bcb33</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 22:14:39</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>-1372237958</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>745168361b0301106c7399f7b04bcb20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180537f72020000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>2cf7e415afc70110c271736a73651ae2</update_guid>
+<update_guid_history>2cf7e415afc70110c271736a73651ae2:-1372237958,c4fdd49579870110f688634cf42a02f2:-1485709714</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_c26f12cba9623010c0a065f439e66156</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Database</label><live_feed_enabled>false</live_feed_enabled><name>cmdb_ci_database</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Configuration Item" name="cmdb_ci">03de56cfa9223010c0a065f439e66150</super_class><sys_class_code>#-</sys_class_code><sys_class_name>sys_db_object</sys_class_name><sys_class_path>/!!/#-</sys_class_path><sys_created_by>system</sys_created_by><sys_created_on>2021-09-17 01:27:08</sys_created_on><sys_id>c26f12cba9623010c0a065f439e66156</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Database</sys_name><sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">c6ded2cfa9223010c0a065f439e66129</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_c26f12cba9623010c0a065f439e66156</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 22:34:06</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-1409628090</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:19</sys_created_on>
+<sys_id>7451a4361b0301106c7399f7b04bcb3e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180536938e90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:19</sys_updated_on>
+<table>cmdb_ci_database</table>
+<target_name>Database</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>4962245d2c87011069024eaf2fcc11b9</update_guid>
+<update_guid_history>4962245d2c87011069024eaf2fcc11b9:-1409628090,8162245d0c8701105b173c6331acb0b5:1674112055</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_91baab091b8301106c7399f7b04bcb4d</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_graphql_resolver"&gt;&lt;sys_graphql_resolver action="INSERT_OR_UPDATE"&gt;&lt;name&gt;getRecordByID&lt;/name&gt;&lt;schema display_value="Change"&gt;8c19a7851b8301106c7399f7b04bcbfa&lt;/schema&gt;&lt;script&gt;&lt;![CDATA[(function process(/*ResolverEnvironment*/ env) {
+	
+	var id = env.getArguments().id;
+	var table = env.getArguments().table;
+	
+	var gr = new GlideRecord(table);
+	gr.get(id);
+	return gr;
+
+})(env);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_graphql_resolver&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-04-22 18:31:09&lt;/sys_created_on&gt;&lt;sys_id&gt;91baab091b8301106c7399f7b04bcb4d&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;getRecordByID&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_graphql_resolver_91baab091b8301106c7399f7b04bcb4d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-04-22 18:34:46&lt;/sys_updated_on&gt;&lt;/sys_graphql_resolver&gt;&lt;/record_update&gt;</payload>
+<payload_hash>671204017</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>7451a4361b0301106c7399f7b04bcb3f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180528e1cc00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name>getRecordByID</target_name>
+<type>GraphQL Scripted Resolver</type>
+<update_domain>global</update_domain>
+<update_guid>939b6b41b4030110e0a9f4839f7fe336</update_guid>
+<update_guid_history>939b6b41b4030110e0a9f4839f7fe336:671204017,82caef05468301107dc7720ae93478d4:-830415922</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_7930409d1bc301106c7399f7b04bcb63</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="DELETE"><path>AssignmentGroup:manager</path><resolver display_value="getRecordBySourceID">cedb2b851b8301106c7399f7b04bcb98</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 20:04:56</sys_created_on><sys_id>7930409d1bc301106c7399f7b04bcb63</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_7930409d1bc301106c7399f7b04bcb63</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 20:12:27</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>-918563047</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>785168361b0301106c7399f7b04bcb1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180532398a50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>83f014d5174701109506a5ddf3c30d08</update_guid>
+<update_guid_history>83f014d5174701109506a5ddf3c30d08:-918563047,82f18055ac07011088fcc0403bb20cf0:503729573,4840c8917d0701106cb7b52b5bfb37cd:-86360664</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_42c448191b0701106c7399f7b04bcb6c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="DELETE"><path>Group:manager</path><resolver display_value="getRecordBySourceID">cedb2b851b8301106c7399f7b04bcb98</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 20:24:55</sys_created_on><sys_id>42c448191b0701106c7399f7b04bcb6c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_42c448191b0701106c7399f7b04bcb6c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 20:24:55</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>560147430</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>7c5168361b0301106c7399f7b04bcb1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180534a2e5a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>98aadc51cc870110c969c61fc7291d34</update_guid>
+<update_guid_history>98aadc51cc870110c969c61fc7291d34:560147430,70d480d5dc07011042cbf47ef59ff39b:746987890</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_b3fee3c91b8301106c7399f7b04bcb71</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="INSERT_OR_UPDATE"><path>Change:requested_by</path><resolver display_value="getRecordBySourceID">cedb2b851b8301106c7399f7b04bcb98</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 18:50:01</sys_created_on><sys_id>b3fee3c91b8301106c7399f7b04bcb71</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_b3fee3c91b8301106c7399f7b04bcb71</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 18:57:46</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>-1646511086</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>b05168361b0301106c7399f7b04bcb20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18052a329540000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>04e07fcdb683011031ef48d86d1308f9</update_guid>
+<update_guid_history>04e07fcdb683011031ef48d86d1308f9:-1646511086,3e1fe38db8830110d0aacf11daf3148d:919341374</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_57b5d8991b4701106c7399f7b04bcb87</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_graphql_resolver"&gt;&lt;sys_graphql_resolver action="INSERT_OR_UPDATE"&gt;&lt;name&gt;getRecordByField&lt;/name&gt;&lt;schema display_value="Change"&gt;8c19a7851b8301106c7399f7b04bcbfa&lt;/schema&gt;&lt;script&gt;&lt;![CDATA[(function process( /*ResolverEnvironment*/ env) {
+
+    var id = env.getSource();
+    var table = env.getArguments().table;
+	var queryField = env.getArguments().fieldname;
+
+    var rec = new GlideRecord(table);
+    rec.addQuery(queryField, id);
+    rec.query();
+
+    return rec;
+
+})(env);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_graphql_resolver&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-04-22 21:39:18&lt;/sys_created_on&gt;&lt;sys_id&gt;57b5d8991b4701106c7399f7b04bcb87&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;getRecordByField&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_graphql_resolver_57b5d8991b4701106c7399f7b04bcb87&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-04-25 14:30:54&lt;/sys_updated_on&gt;&lt;/sys_graphql_resolver&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-610056963</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>b051a4361b0301106c7399f7b04bcb3f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1806121ec550000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name>getRecordByField</target_name>
+<type>GraphQL Scripted Resolver</type>
+<update_domain>global</update_domain>
+<update_guid>98901e8e630b0510c82d2547272ab7f5</update_guid>
+<update_guid_history>98901e8e630b0510c82d2547272ab7f5:-610056963,247052ce810b0510e483a87ee036c921:-1492851023,7d2052ce770b051030ce5f78d89f801c:-610056963,ed005a4ee70b0510c05b711d61a3ba21:-1492851023,ded5981db04701106f015dd67a790352:-610056963</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_6dead4d11b8701106c7399f7b04bcbf7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="INSERT_OR_UPDATE"><path>ChangeTasks:cmdb_ci</path><resolver display_value="getRecordBySourceID">cedb2b851b8301106c7399f7b04bcb98</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 22:01:32</sys_created_on><sys_id>6dead4d11b8701106c7399f7b04bcbf7</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_6dead4d11b8701106c7399f7b04bcbf7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 22:01:32</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>-1443746399</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>b45168361b0301106c7399f7b04bcb1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180534b66780000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>37ead8d13f87011093b4f7a94c932b82</update_guid>
+<update_guid_history>37ead8d13f87011093b4f7a94c932b82:-1443746399</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_408e27c91b8301106c7399f7b04bcbb3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="DELETE"><path>User:first_name</path><resolver display_value="getRecordBySourceID">cedb2b851b8301106c7399f7b04bcb98</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 18:47:34</sys_created_on><sys_id>408e27c91b8301106c7399f7b04bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_408e27c91b8301106c7399f7b04bcbb3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 18:47:34</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>-2070284035</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>b85168361b0301106c7399f7b04bcb1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180529c39f30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>c12f278d1b8301104995355e33cb1a6e</update_guid>
+<update_guid_history>c12f278d1b8301104995355e33cb1a6e:-2070284035,e68ee3c95883011076c332f954b87a6e:1389738889</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_e87158551b4701106c7399f7b04bcb53</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_graphql_resolver"&gt;&lt;sys_graphql_resolver action="INSERT_OR_UPDATE"&gt;&lt;name&gt;getRecordsByParentID&lt;/name&gt;&lt;schema display_value="Change"&gt;8c19a7851b8301106c7399f7b04bcbfa&lt;/schema&gt;&lt;script&gt;&lt;![CDATA[(function process( /*ResolverEnvironment*/ env) {
+
+    var id = env.getSource();
+    var parent = env.getArguments().parent || 'parent';
+    var table = env.getArguments().table;
+	
+    var grt = new GlideRecord(table);
+    grt.addQuery(parent, id);
+    if (env.getArguments().filter != null) {
+        grt.addEncodedQuery('' + env.getArguments().filter);
+    }
+    grt.query();
+    return grt;
+
+
+})(env);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_graphql_resolver&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-04-22 21:27:09&lt;/sys_created_on&gt;&lt;sys_id&gt;e87158551b4701106c7399f7b04bcb53&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;getRecordsByParentID&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_graphql_resolver_e87158551b4701106c7399f7b04bcb53&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-04-22 21:27:09&lt;/sys_updated_on&gt;&lt;/sys_graphql_resolver&gt;&lt;/record_update&gt;</payload>
+<payload_hash>445788054</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>bc51a4361b0301106c7399f7b04bcb3f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180532bece70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name>getRecordsByParentID</target_name>
+<type>GraphQL Scripted Resolver</type>
+<update_domain>global</update_domain>
+<update_guid>dc131cd55e470110acff3e9af5ff929f</update_guid>
+<update_guid_history>dc131cd55e470110acff3e9af5ff929f:445788054</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_61a8a8551bc701106c7399f7b04bcb1a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="INSERT_OR_UPDATE"><path>Change:problems</path><resolver display_value="getRecordByField">57b5d8991b4701106c7399f7b04bcb87</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:01:37</sys_created_on><sys_id>61a8a8551bc701106c7399f7b04bcb1a</sys_id><sys_mod_count>6</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_61a8a8551bc701106c7399f7b04bcb1a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-25 15:47:50</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>1925425532</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>f05168361b0301106c7399f7b04bcb1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18061685ba90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>d7222e063e8b051027ca4efb3d58ddc7</update_guid>
+<update_guid_history>d7222e063e8b051027ca4efb3d58ddc7:1925425532,b974d206d14b0510d387d3f027c2c94c:-668055639,edbe060e7d0b05103deec41d51ecf7b0:1925425532,eeed8a8af40b051037eb4ff69e663b57:435307518,628cc202ca8705100e6a5068aabd0872:654223845,4a096095c2c7011058155ba25f02984b:-344955659,1cb8a8d199c70110c84e2d8ede8bdbfd:654223845</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_39df4c551b4701106c7399f7b04bcb96</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="INSERT_OR_UPDATE"><path>Change:change_tasks</path><resolver display_value="getRecordByField">57b5d8991b4701106c7399f7b04bcb87</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 21:13:38</sys_created_on><sys_id>39df4c551b4701106c7399f7b04bcb96</sys_id><sys_mod_count>5</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_39df4c551b4701106c7399f7b04bcb96</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 21:53:11</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>-1173776943</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>f45168361b0301106c7399f7b04bcb1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1805343c52a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>f109d0519b87011057ade3885cc277dc</update_guid>
+<update_guid_history>f109d0519b87011057ade3885cc277dc:-1173776943,d8d6545d0a470110ac410d5e3359e7e6:-1833673302,8ee590d590470110cf04f54c8f6db4af:-1173776943,3775981d99470110008ebf7c63e42604:1006336905,12235c59704701100ffd530b90866b6a:-2046113473,5effc855e1470110b34e733b2573a502:1006336905</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_2b8e674d1b8301106c7399f7b04bcb98</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="DELETE"><path>User:id</path><resolver display_value="getRecordBySourceID">cedb2b851b8301106c7399f7b04bcb98</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 18:47:45</sys_created_on><sys_id>2b8e674d1b8301106c7399f7b04bcb98</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_2b8e674d1b8301106c7399f7b04bcb98</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 18:47:45</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>-409495970</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>f451a4361b0301106c7399f7b04bcb40</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180529c533b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>322f278d208301107625fe79243f77df</update_guid>
+<update_guid_history>322f278d208301107625fe79243f77df:-409495970,559ea74dd58301109ab5a1919db61e9f:-279665430</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_problem_change_request_text_search</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="change_request" relationship="" sys_domain="global" table="problem" version="2" view="text_search"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="problem" element="NULL" name="problem" parent="change_request" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">c1b928951bc701106c7399f7b04bcb13</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_id>cdb928951bc701106c7399f7b04bcb13</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>short_description</element><list_id display_value="problem" element="NULL" name="problem" parent="change_request" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">c1b928951bc701106c7399f7b04bcb13</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_id>41b928951bc701106c7399f7b04bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>description</element><list_id display_value="problem" element="NULL" name="problem" parent="change_request" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">c1b928951bc701106c7399f7b04bcb13</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_id>c1b928951bc701106c7399f7b04bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>state</element><list_id display_value="problem" element="NULL" name="problem" parent="change_request" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">c1b928951bc701106c7399f7b04bcb13</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_id>45b928951bc701106c7399f7b04bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>resolution_code</element><list_id display_value="problem" element="NULL" name="problem" parent="change_request" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">c1b928951bc701106c7399f7b04bcb13</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_id>c5b928951bc701106c7399f7b04bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>assignment_group</element><list_id display_value="problem" element="NULL" name="problem" parent="change_request" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">c1b928951bc701106c7399f7b04bcb13</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_id>49b928951bc701106c7399f7b04bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>cmdb_ci</element><list_id display_value="problem" element="NULL" name="problem" parent="change_request" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">c1b928951bc701106c7399f7b04bcb13</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_id>c9b928951bc701106c7399f7b04bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>related_incidents</element><list_id display_value="problem" element="NULL" name="problem" parent="change_request" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">c1b928951bc701106c7399f7b04bcb13</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_id>4db928951bc701106c7399f7b04bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>rfc</element><list_id display_value="problem" element="NULL" name="problem" parent="change_request" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">c1b928951bc701106c7399f7b04bcb13</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_id>cdb928951bc701106c7399f7b04bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>problem</name><parent>change_request</parent><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 23:06:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c1b928951bc701106c7399f7b04bcb13</sys_id><sys_mod_count>0</sys_mod_count><sys_name>problem</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_problem_change_request_text_search</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 23:06:03</sys_updated_on><sys_user/><view display_value="Text_search" name="text_search">0c029fc00a0a0b2c001aa3d4ed9f69e8</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-139585155</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>f85168361b0301106c7399f7b04bcb20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180538679150000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table>problem</table>
+<target_name>Change Request.Problem</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>05b920d5d8c701106656a88983a20dc9</update_guid>
+<update_guid_history>05b920d5d8c701106656a88983a20dc9:-139585155,3686289100c701104a65fc6058ad6661:-125871887</update_guid_history>
+<update_set display_value=""/>
+<view>text_search</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_cedb2b851b8301106c7399f7b04bcb98</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_graphql_resolver"&gt;&lt;sys_graphql_resolver action="INSERT_OR_UPDATE"&gt;&lt;name&gt;getRecordBySourceID&lt;/name&gt;&lt;schema display_value="Change"&gt;8c19a7851b8301106c7399f7b04bcbfa&lt;/schema&gt;&lt;script&gt;&lt;![CDATA[(function process(/*ResolverEnvironment*/ env) {
+
+	var id = env.getSource();
+	var table = env.getArguments().table;
+	
+	var gr = new GlideRecord(table);
+	gr.get(id);
+	gs.info(gr);
+	return gr;
+    
+
+})(env);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_graphql_resolver&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-04-22 18:45:59&lt;/sys_created_on&gt;&lt;sys_id&gt;cedb2b851b8301106c7399f7b04bcb98&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;getRecordBySourceID&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_graphql_resolver_cedb2b851b8301106c7399f7b04bcb98&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-04-22 19:05:26&lt;/sys_updated_on&gt;&lt;/sys_graphql_resolver&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-691515262</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>f851a4361b0301106c7399f7b04bcb3f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18052aa2d2b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name>getRecordBySourceID</target_name>
+<type>GraphQL Scripted Resolver</type>
+<update_domain>global</update_domain>
+<update_guid>54a2b781cbc301105cc7a6741d97fb8d</update_guid>
+<update_guid_history>54a2b781cbc301105cc7a6741d97fb8d:-691515262,232e27c91083011013e618238b990cc6:-578590802</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_mapping_8b4977891bc301106c7399f7b04bcba9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_graphql_resolver_mapping"><sys_graphql_resolver_mapping action="INSERT_OR_UPDATE"><path>Change:service</path><resolver display_value="getRecordBySourceID">cedb2b851b8301106c7399f7b04bcb98</resolver><schema display_value="Change">8c19a7851b8301106c7399f7b04bcbfa</schema><sys_class_name>sys_graphql_resolver_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-22 19:34:45</sys_created_on><sys_id>8b4977891bc301106c7399f7b04bcba9</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_graphql_resolver_mapping_8b4977891bc301106c7399f7b04bcba9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-22 19:34:45</sys_updated_on></sys_graphql_resolver_mapping></record_update>]]></payload>
+<payload_hash>630547963</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>fc5168361b0301106c7399f7b04bcb1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18052c505e20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name/>
+<type>GraphQL Resolver Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>f1593f4136c30110f208d1e1d65eb6a0</update_guid>
+<update_guid_history>f1593f4136c30110f208d1e1d65eb6a0:630547963</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_graphql_resolver_27e2d2421b4b05106c7399f7b04bcb7e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_graphql_resolver"&gt;&lt;sys_graphql_resolver action="INSERT_OR_UPDATE"&gt;&lt;name&gt;getRecordsfromM2M&lt;/name&gt;&lt;schema display_value="Change"&gt;8c19a7851b8301106c7399f7b04bcbfa&lt;/schema&gt;&lt;script&gt;&lt;![CDATA[(function process( /*ResolverEnvironment*/ env) {
+
+    var id = env.getSource();
+    var table = env.getArguments().table;
+	var fieldname = env.getArguments().fieldname;
+	var problemIDs = [];
+
+    var rec = new GlideRecord(table);
+    rec.addQuery(fieldname, id);
+    if (env.getArguments().filter != null) {
+        rec.addEncodedQuery('' + env.getArguments().filter);
+    }
+    rec.query();
+    return rec;
+
+})(env);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_graphql_resolver&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-04-25 14:42:07&lt;/sys_created_on&gt;&lt;sys_id&gt;27e2d2421b4b05106c7399f7b04bcb7e&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;getRecordsfromM2M&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_graphql_resolver_27e2d2421b4b05106c7399f7b04bcb7e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-04-25 14:45:56&lt;/sys_updated_on&gt;&lt;/sys_graphql_resolver&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1251020317</payload_hash>
+<remote_update_set display_value="Change_GraphQL API">7051a4361b0301106c7399f7b04bcb3e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 14:20:20</sys_created_on>
+<sys_id>fc51a4361b0301106c7399f7b04bcb3e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180612facdb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 14:20:20</sys_updated_on>
+<table/>
+<target_name>getRecordsfromM2M</target_name>
+<type>GraphQL Scripted Resolver</type>
+<update_domain>global</update_domain>
+<update_guid>1c049e82cf4b0510d62b9d55ef24786f</update_guid>
+<update_guid_history>1c049e82cf4b0510d62b9d55ef24786f:1251020317,2c23168eec0b0510513d861348294c52:-224939237</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
